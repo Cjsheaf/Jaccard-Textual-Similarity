@@ -1,7 +1,7 @@
 Jaccard-Textual-Similarity
 ==========================
 
-A collection of programs designed to analyze pairs of text files and calculate how similar their contents are using the Jaccard similarity formula.
+A collection of programs designed to analyze pairs of text files and calculate how similar their contents are using the <a href="http://en.wikipedia.org/wiki/Jaccard_index">Jaccard similarity</a> formula.
 
 Two programs are included in this repository: Shingle and Jaccard (as well as each program's source code).
  - Shingle.exe takes any corpus of text and "Shingles" (breaks up into overlapping n-gram groups of words) it, placing the results into a .csv (comma separated value) file. The .csv file is used as input for Jaccard.exe.
